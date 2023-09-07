@@ -15,5 +15,5 @@ magnifying_area.addEventListener("mousemove",function(event){
 })
 
 magnifying_area.addEventListener("mouseleave",function(){
-	magnifying_img.style.transform = 'translate(-50%,-50%) scale(1)'
+	magnifying_img.style.transform = 'translate(-50%,-50%) scale(1)' 	
 })
